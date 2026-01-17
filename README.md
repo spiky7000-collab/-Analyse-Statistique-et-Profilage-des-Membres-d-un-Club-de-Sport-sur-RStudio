@@ -1,14 +1,14 @@
 # Analyse de 973 Profils de Sportifs
 
-Ce projet présente une analyse approfondie réalisée sous **RStudio** portant sur un jeu de données de 973 profils sportifs. L'objectif est de segmenter la clientèle et d'extraire des insights techniques via des méthodes statistiques avancées.
+Ce projet présente une étude approfondie réalisée avec le logiciel **RStudio** sur un ensemble de données regroupant 973 profils de sportifs. L'objectif est de segmenter la clientèle et d'en extraire des **enseignements techniques** par l'application de méthodes statistiques avancées.
 
 ## 📊 Résumé de l'Analyse
-* **Exploration :** Analyse exploratoire des données (EDA) et tests statistiques complets.
-* **Réduction de Dimension :** Analyse en Composantes Principales (**ACP**) expliquant **86% de la variance**.
-* **Segmentation (Clustering) :** * Méthodes : **K-means** & Classification Ascendante Hiérarchique (**CAH**).
-    * Optimisation : Nombre de clusters fixé à **K=3**, validé par les indices de **Silhouette** et **Calinski-Harabasz**.
+* **Exploration :** Analyse exploratoire détaillée des données et réalisation de tests statistiques complets.
+* **Réduction de Dimension :** Analyse en Composantes Principales (**ACP**) expliquant **86 % de la variance**.
+* **Segmentation :** * Méthodes utilisées : **K-means** et Classification Ascendante Hiérarchique (**CAH**).
+    * Optimisation : Choix de **K=3** groupes, validé par les indices de la **Silhouette** et de **Calinski-Harabasz**.
 
-## 📈 Visualisations & Rapport
-Le projet inclut des visualisations complexes pour interpréter les profils types :
-* **Graphiques Avancés :** Diagrammes de Chord, Alluvial, et Violin plots.
-* **Livrable :** Un rapport **Quarto dynamique** intégrant l'ensemble de l'analyse technique et des résultats.
+## 📈 Représentations Graphiques et Livrable
+Le projet utilise des visualisations complexes pour interpréter les profils types :
+* **Graphiques Avancés :** Diagrammes **en corde**, **alluviaux** et graphiques **en violon**.
+* **Rapport Final :** Un document **Quarto dynamique** intégrant l'intégralité de l'expertise technique et des résultats obtenus.
