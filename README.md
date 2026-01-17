@@ -1,6 +1,7 @@
-# Analyse de 973 Profils de Sportifs
+# Analyse de 973 profils de membres d'une salle de sport
 
-Ce projet présente une étude approfondie réalisée avec le logiciel **RStudio** sur un ensemble de données regroupant 973 profils de sportifs. L'objectif est de segmenter la clientèle et d'en extraire des **enseignements techniques** par l'application de méthodes statistiques avancées.
+Ce projet présente une étude approfondie réalisée avec le logiciel **RStudio** portant sur **973 membres d'une salle de sport**.
+L'objectif est de segmenter cette base d'adhérents et d'en extraire des enseignements techniques via des méthodes statistiques avancées.
 
 ## 📊 Résumé de l'Analyse
 * **Exploration :** Analyse exploratoire détaillée des données et réalisation de tests statistiques complets.
